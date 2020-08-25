@@ -8,7 +8,7 @@ class JedisDemoApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("hello World");
+        System.out.println("hello World jedis");
     }
 
 }
